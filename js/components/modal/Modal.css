@@ -1,0 +1,24 @@
+#favDialog{
+    margin: auto;
+    border: 1px solid lightblue;
+    width: 20em;
+    min-height: 5em;
+}
+
+.modalContent{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 5%;
+}
+
+.modalContent .btnClose{
+   margin-left: auto;
+}
+
+.modalContent form{
+    margin: auto;
+}
+
+.confirmBtn{
+    margin-top: 1.5em;
+}

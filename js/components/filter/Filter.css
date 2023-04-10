@@ -1,0 +1,43 @@
+.row{
+    width: 18em;
+}
+
+.row small{
+  margin-top: 1em;
+  color: lightgray;
+}
+
+.brandBtn{
+  cursor: pointer;
+  border-radius: 10%;
+  border: 2px solid lightblue;
+}
+
+.brandBtn:active{
+    border:blue;
+}
+
+.brandBtn:hover{
+    border:blue;
+}
+
+.filterSizeGroup{
+    flex-wrap: wrap;
+    width: 18em;
+}
+
+.filterSizeBtn {
+    font-size: 16px;
+    margin-right: 0.2em;
+    margin-top: 0.2em;
+    flex-grow: 0;
+    vertical-align: middle;
+}
+
+.filterSizeBtn:active {
+  border:blue;
+}
+
+.filterSlider{
+    margin-top: 1em;
+}

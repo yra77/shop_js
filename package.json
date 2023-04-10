@@ -1,0 +1,12 @@
+{
+    "name": "shop_js",
+    "version": "1.0.0",
+    "type": "module",
+    "description": "Learning Node",
+    "main": "Router.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Chikeluba Anusionwu",
+    "license": "ISC"
+  }
